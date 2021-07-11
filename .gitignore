@@ -133,3 +133,7 @@ dmypy.json
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+
+!/app/core/migrations/
+app/core/migrations/
+
