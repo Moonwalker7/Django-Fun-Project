@@ -135,5 +135,5 @@ dmypy.json
 .idea/vcs.xml
 
 !/app/core/migrations/
-
+app/core/migrations/
 
